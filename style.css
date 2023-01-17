@@ -1,0 +1,33 @@
+div {
+    display: grid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#buton2 {
+    color: red;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.buton-label {
+    background-color:  black;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#test {
+    border: 1px solid green;
+}
+
+#muie {
+    top: 500px;
+    bottom: 500px;
+    margin: 50 50 50 50;
+    padding-bottom: auto;
+    font-weight: bold;
+    color: sienna;
+    font-size: 100px;
+}
